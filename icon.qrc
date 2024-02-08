@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pico">
+        <file>icon/about.png</file>
+        <file>icon/addNew.png</file>
+        <file>icon/close.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/edit.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/connect.png</file>
+    </qresource>
+</RCC>
